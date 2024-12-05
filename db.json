@@ -1,0 +1,34 @@
+{
+    "songs": [
+      {
+        "id": "1",
+        "name": "I Wanna Hold Your Hand",
+        "artist": "The Beatles",
+        "genre": "Rock"
+      },
+      {
+        "id": "2",
+        "name": "GOD.",
+        "artist": "Kendrick Lamar",
+        "genre": "Hip-Hop"
+      },
+      {
+        "id": "3",
+        "name": "A Love Supreme, pt. 4",
+        "artist": "John Coltrane",
+        "genre": "Jazz"
+      },
+      {
+        "id": "4",
+        "name": "Doomsday",
+        "artist": "MF DOOM",
+        "genre": "Hip-Hop"
+      },
+      {
+        "id": "",
+        "name": "RECO",
+        "artist": "John Monkman",
+        "genre": "Electronic"
+      }
+    ]
+  }
