@@ -7,4 +7,5 @@ My three event listeners are:
 1. a click event on the button element
 2. a submit event on the user form element
 3. a mouseover event that changes the color of the <h1> element
+4. a mouseout event that changes the color of the <h1> element back to the original color
 
